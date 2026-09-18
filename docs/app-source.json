@@ -1,7 +1,7 @@
 {
   "repository": "vinayraghavendran16/neverskipalternate",
-  "lastReviewedCommit": "3030b493d136b45724e21dd90794b6c8cf80f041",
-  "reviewedAt": "2026-09-17",
-  "evidence": ["README.md", "docs/product-roadmap.md", "app/dashboard", "app/platform"],
-  "note": "Initial review also included local work in progress. Public claims were limited to documented delivered capabilities."
+  "lastReviewedCommit": "2bb4168a3c5bd6db8bb42308c657d65a8db638c5",
+  "reviewedAt": "2026-09-18",
+  "evidence": ["README.md", "docs/product-roadmap.md", "docs/formal-academic-records.md", "docs/role-reporting-dashboards.md", "docs/mvp-uat-release-gate-2026-09-17.md", "app/dashboard/report-cards", "app/dashboard/reports"],
+  "note": "Public claims include delivered role-based reporting dashboards and the controlled report-card and transcript workflow. Planned capabilities remain explicitly labelled."
 }
